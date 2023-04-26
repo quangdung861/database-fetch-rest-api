@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Khóa html",
+      "price": 5000
+    },
+    {
+      "name": "đ",
+      "price": "d",
+      "id": 3
+    },
+    {
+      "name": "đ",
+      "price": "d",
+      "id": 5
+    }
+  ]
+}
